@@ -1,0 +1,14 @@
+/* DEBUG */
+[class*="col"] {
+    background-color: yellow;
+    border: 1px solid black;
+    height: 50px;
+}
+
+header {
+    background-color: blue;
+}
+
+footer {
+    background-color: lime;
+}
