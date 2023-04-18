@@ -11,6 +11,15 @@
     background-color: #2c3e50;
 }
 
+h2 {
+    padding: 60px 0 30px;
+    font-size: 40px;
+}
+
+.fa-star {
+    font-size: 25px;
+}
+
 /* header */
 header {
     background-color: #2c3e50;
@@ -35,23 +44,13 @@ header {
     padding: 20px 0 30px;
 }
 
-#jumbotron .fa-star {
-    font-size: 25px;
-}
-
 #jumbotron .works {
     font-size: 20px;
 }
 
 /* portfolio */
-.portfolio h2 {
-    padding: 60px 0 30px;
-    font-size: 40px;
-}
-
 .portfolio .fa-star {
     color: #2c3e50;
-    font-size: 25px;
 }
 
 .portfolio img {
@@ -62,6 +61,11 @@ header {
 /* about */
 .about {
     background-color: #1abc9c;
+    color: #fff;
+}
+
+.about button {
+    margin: 40px 0 50px;
 }
 
 /* contact */
